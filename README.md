@@ -18,7 +18,7 @@ Step 4: Perform model tuning to optimize results.
 - Leveraged gridsearch on an XgBoost pipeline with kfold cross validation. 
 
 ## Results
-An xgboost model was chosed for tuning and came within 13 MSE which can provide a good range for a player's potential draft position. However it can be since that as a draft progresses to later first round into the second round, the available players become harder to differentiate and teams begin to select based their individual needs rather than stats. 
+An xgboost model was chosed for tuning and came within 13 MSE which can provide a good range for a player's potential draft position. However as a draft progresses to later first round into the second round, the available players become harder to differentiate and teams begin to select based their individual needs rather than stats. 
 
 ## Challenges:
 
